@@ -6,7 +6,7 @@ Leaning in on decades of athletic experience, USA Category I cycling, natural bo
 ### 🔧 Featured projects
 - **[ArrowSpace Axis Finder](https://phillipsdobbs22.github.io/ArrowSpace-Axis-Finder/)**: Offline arrow architecture tuning to make lethal arrow sets with sample-size-gated recommendations
 - **[ProxySight AR BRM Workbench](https://phillipsdobbs22.github.io/ProxySightAR-BusinessRelations/)**: Business relationship manager simulation for the Pensacola FL / Baldwin County AL market
-- **[Financial Fuel Gauges]([link])**: Household budget dashboard that shows spending as fuel gauges
+- **[Financial Fuel Gauges](https://phillipsdobbs22.github.io/Financial-Fuel-Gages-FFG/)**: Household budget dashboard that shows spending as fuel gauges
 
 ### 📚 Currently learning
 SQL · Python · JSON · Swift · data visualization
