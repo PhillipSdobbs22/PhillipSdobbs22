@@ -6,7 +6,7 @@ Leaning in on decades of athletic experience:  Olympic Taekwondo Black Belt, [US
 ### 🔧 Featured projects
 - **[ArrowSpace Axis Finder](https://phillipsdobbs22.github.io/ArrowSpace-Axis-Finder/)**: Offline arrow application to make lethally accurate arrow sets with sample-size-gated recommendations
 - **[BRM-Workbench](https://phillipsdobbs22.github.io/BRM-Workbench/)**: Business relationship manager simulation for the Pensacola FL / Baldwin County AL market
-- **[Financial Fuel Gauges](https://phillipsdobbs22.github.io/Financial-Fuel-Gages-FFG/)**: Personal finance dashboard that shows spending as fuel gauges
+- **[Financial Fuel Gauges](https://phillipsdobbs22.github.io/Financial-Fuel-Gauges-FFG/)**: Personal finance dashboard that shows spending as fuel gauges
 
 ### 📚 Currently tooling in
 SQL · Python · JSON · Swift · data visualization
