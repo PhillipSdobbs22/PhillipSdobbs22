@@ -1,6 +1,6 @@
 ## Hi, I'm Phillip SHAWN 👋
 
-Aerospace Operational Physiologist & retired **[UltraEnduranceAthlete](https://ultrasignup.com/results_participant.aspx?fname=Shawn&lname=Dobbs&age=0)]** (2019, 2020, 2021) moving into **business intelligence and data analytics**.
+Former Aerospace Operational Physiologist & **[UltraEnduranceAthlete](https://ultrasignup.com/results_participant.aspx?fname=Shawn&lname=Dobbs&age=0)]** (2019, 2020, 2021) moving into **business intelligence and data analytics**.
 Leaning in on decades of athletic experience, USA Category I cycling, natural bodybuilding, Ironman Triathlon, 200 mile ultra experience and a masters degree in sports science to work with AI, Software, and Product Engineers to rapidly deploy PEDs **Performance Enhancing Designs** into the hands of those closest to the work.
 
 ### 🔧 Featured projects
