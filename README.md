@@ -8,7 +8,7 @@ Leaning in on decades of athletic experience:  Olympic Taekwondo Black Belt, [US
 - **[ProxySight AR BRM Workbench](https://phillipsdobbs22.github.io/ProxySightAR-BusinessRelations/)**: Business relationship manager simulation for the Pensacola FL / Baldwin County AL market
 - **[Financial Fuel Gauges](https://phillipsdobbs22.github.io/Financial-Fuel-Gages-FFG/)**: Household budget dashboard that shows spending as fuel gauges
 
-### 📚 Currently learning
+### 📚 Currently tooling in
 SQL · Python · JSON · Swift · data visualization
 
 ### 🎯 Interests
