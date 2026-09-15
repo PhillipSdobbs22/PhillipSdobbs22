@@ -5,7 +5,7 @@ Leaning in on decades of athletic experience, USA Category I cycling, natural bo
 
 ### 🔧 Featured projects
 - **[ArrowSpace Axis Finder](https://phillipsdobbs22.github.io/ArrowSpace-Axis-Finder/)**: Offline arrow architecture tuning to make lethal arrow sets with sample-size-gated recommendations
-- **[ProxySight AR BRM Workbench](link]https://phillipsdobbs22.github.io/ProxySightAR-BusinessRelations/)**: Business relationship manager simulation for the Pensacola FL / Baldwin County AL market
+- **[ProxySight AR BRM Workbench](https://phillipsdobbs22.github.io/ProxySightAR-BusinessRelations/)**: Business relationship manager simulation for the Pensacola FL / Baldwin County AL market
 - **[Financial Fuel Gauges]([link])**: Household budget dashboard that shows spending as fuel gauges
 
 ### 📚 Currently learning
