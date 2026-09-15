@@ -12,6 +12,6 @@ Leaning in on decades of athletic experience, USA Category I cycling, natural bo
 SQL · Python · JSON · Swift · data visualization
 
 ### 🎯 Interests
-Human performance optimization (HPO) in the B2B SaaS space is one of the fastest-growing sectors in enterprise technology.
+Human performance optimization (HPO) in the B2B SaaS space, one of the fastest-growing sectors in enterprise technology. Every human is an athlete and every human is better enhanced.
 
 📍 Elberta, Alabama · Open to remote roles · [LinkedIn]([linkedin.com/in/phillipshawn])
