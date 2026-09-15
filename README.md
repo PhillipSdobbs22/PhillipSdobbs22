@@ -4,7 +4,7 @@ Former [Aerospace Operational Physiologist](https://www.navy.com/careers-benefit
 Leaning in on decades of athletic experience:  Olympic Taekwondo Black Belt, [USA Cycling Category I](https://usacycling.sport80.com/pub/athletes/249894/results), amateur bodybuilding, Ironman Triathlon, a former world record holder, and a masters degree in sports science from the United States Sports University. Bringing world class ambition into multi-disciplinary teams collaborating with AI, Software, and Product Engineers to rapidly deploy PEDDs **Performance Enhancing Digital Designs** into the hands of those closest to the work. From the service desk to the c-suite; from flight lines to assembly lines; from urban to rural. 
 
 ### 🔧 Featured projects
-- **[ArrowSpace Axis Finder](https://phillipsdobbs22.github.io/ArrowSpace-Axis-Finder/)**: Offline arrow application to make lethally accurate arrow sets with sample-size-gated recommendations
+- **[ArrowSpace Axis Finder](https://phillipsdobbs22.github.io/ArrowSpace-Axis-Finder/)**: Arrow application to make lethally accurate arrow sets with sample-size-gated recommendations
 - **[BRM-Workbench](https://phillipsdobbs22.github.io/BRM-Workbench/)**: Business relationship manager simulation for the Pensacola FL / Baldwin County AL market
 - **[Financial Fuel Gauges](https://phillipsdobbs22.github.io/Financial-Fuel-Gauges-FFG/)**: Personal finance dashboard that shows spending as fuel gauges
 
