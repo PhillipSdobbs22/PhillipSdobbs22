@@ -1,6 +1,6 @@
 ## Hi, I'm Phillip SHAWN 👋
 
-Aerospace Operational Physiologist & retired former **[Guiness World Record and Ultra Endurance athlete]([[link](https://www.google.com/search?q=shawn+dobbs+world+record+holder+ultra+endurance&rlz=1C5CHFA_enUS1018US1018&oq=shawn+dobbs+world+record+holder+ultra+endurance&gs_lcrp=EgZjaHJvbWUyCQgAEEUYORigATIHCAEQIRigATIHCAIQIRigATIHCAMQIRigAdIBCTk5OTJqMGoxNagCCLACAfEFziSGv86sQlE&sourceid=chrome&source=chrome.rb&ie=UTF-8)])** (2019, 2020, 2021) moving into human performance using **business intelligence and data analytics**.
+Aerospace Operational Physiologist & retired former **[Guiness World Record and Ultra Endurance athlete]([[link](https://www.google.com/search?q=shawn+dobbs+world+record+holder+ultra+endurance&rlz=1C5CHFA_enUS1018US1018&oq=shawn+dobbs+world+record+holder+ultra+endurance&gs_lcrp=EgZjaHJvbWUyCQgAEEUYORigATIHCAEQIRigATIHCAIQIRigATIHCAMQIRigAdIBCTk5OTJqMGoxNagCCLACAfEFziSGv86sQlE&sourceid=chrome&source=chrome.rb&ie=UTF-8)])** (2019, 2020, 2021) moving into enhancing human performance using **business intelligence and data analytics**.
 I build working data tools and AI agents, using latest AI models as a development partner, to solve real problems for real people.
 
 ### 🔧 Featured projects
