@@ -1,17 +1,17 @@
-## Hi, I'm Phillip SHAWN 👋
+## Phillip SHAWN 
 
 Former [Aerospace Operational Physiologist](https://www.navy.com/careers-benefits/careers/medical/aerospace-operational-physiology) & **[Ultra Endurance Athlete](https://ultrasignup.com/results_participant.aspx?fname=Shawn&lname=Dobbs&age=0)** moved into **business intelligence and data analytics**.
 Leaning in on decades of athletic experience:  Olympic Taekwondo Black Belt, [USA Cycling Category I](https://usacycling.sport80.com/pub/athletes/249894/results), amateur bodybuilding, Ironman Triathlon, a former world record holder, and a masters degree in sports science from the United States Sports University. Bringing world class ambition into multi-disciplinary teams collaborating with AI, Software, and Product Engineers to rapidly deploy PEDDs **Performance Enhancing Digital Designs** into the hands of those closest to the work. From the service desk to the c-suite; from flight lines to assembly lines; from urban to rural. 
 
-### 🔧 Featured projects
+### Featured projects
 - **[ArrowSpace Axis Finder](https://phillipsdobbs22.github.io/ArrowSpace-Axis-Finder/)**: Compares tuning methods to shot logs with sample-size-gated recommendations
 - **[BRM-Workbench](https://phillipsdobbs22.github.io/BRM-Workbench/)**: Business relationship manager simulation for the Pensacola FL / Baldwin County AL market
 - **[Financial Fuel Gauges](https://phillipsdobbs22.github.io/Financial-Fuel-Gauges-FFG/)**: Personal finance dashboard that shows spending as fuel gauges
 
-### 📚 Currently tooling in
+### Currently tooling in
 SQL · Python · JSON · Swift · data visualization
 
-### 🎯 Interests
+### Interests
 Human performance optimization (HPO) in the B2B SaaS space, one of the fastest-growing sectors in enterprise technology. Every human is an athlete and every human is better enhanced.
 
-📍 Elberta, Alabama · Open to remote roles · [LinkedIn]([linkedin.com/in/phillipshawn])
+Elberta, Alabama · Open to remote roles · [LinkedIn]([linkedin.com/in/phillipshawn])
