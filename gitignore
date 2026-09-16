@@ -1,15 +1,3 @@
-# Personal data — never commit
-data/private/
-exports/
-*.db
-*.sqlite
-*.mbox
-chat.db*
-profiles/*.json
-!profiles/demo_*.json
-
-# System / build
-.DS_Store
-*.xcuserstate
-DerivedData/
-build/
+  .DS_Store
+  *.xcuserstate
+  DerivedData/
