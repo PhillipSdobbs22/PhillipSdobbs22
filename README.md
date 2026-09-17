@@ -1,9 +1,11 @@
-## Phillip SHAWN 
+## Phillip-SHAWN Dobbs 
 
 Former [Aerospace Operational Physiologist](https://www.navy.com/careers-benefits/careers/medical/aerospace-operational-physiology) & **[ultra endurance athlete](https://ultrasignup.com/results_participant.aspx?fname=Shawn&lname=Dobbs&age=0)** moved into **business intelligence and data analytics**.
-Leaning in on decades of athletic experience:  Olympic Taekwondo Black Belt, [USA Cycling Category I](https://usacycling.sport80.com/pub/athletes/249894/results), amateur bodybuilding, Ironman Triathlon, a former world record holder, and a masters degree in sports science from the United States Sports University. Bringing world class ambition into multi-disciplinary teams collaborating with AI, Software, and Product Engineers to rapidly deploy PEDDs **Performance Enhancing Digital Designs** into the hands of those closest to the work. From the service desk to the c-suite; from flight lines to assembly lines; from urban to rural. 
+An Olympic Taekwondo Black Belt, [USA Cycling Category I](https://usacycling.sport80.com/pub/athletes/249894/results), amateur bodybuilding, Ironman Triathlon, a former world record holder, and a masters degree in sports science from the United States Sports University. 
+Bringing world class ambition into multi-disciplinary teams collaborating with AI, Software, and Product Engineers to rapidly deploy advanced tools into the hands of those closest to the work. From the service desk to the c-suite; from flight lines to assembly lines; from urban to rural. 
 
 ### Featured projects
+- **[StickySteps](https://github.com/PhillipSdobbs22/StickySteps)** — iOS app that keeps procedure steps on screen while you work in other apps. Swift, ActivityKit, AVKit. Includes a documented log of what the platform allows and what it doesn't.
 - **[ArrowSpace Axis Finder](https://phillipsdobbs22.github.io/ArrowSpace-Axis-Finder/)**: Compares tuning methods to shot logs with sample-size-gated recommendations
 - **[BRM-Workbench](https://phillipsdobbs22.github.io/BRM-Workbench/)**: Business relationship manager simulation for the Pensacola FL / Baldwin County AL market
 - **[Financial Fuel Gauges](https://phillipsdobbs22.github.io/Financial-Fuel-Gauges-FFG/)**: Personal finance dashboard that shows spending as fuel gauges
@@ -14,4 +16,4 @@ SQL · Python · JSON · Swift · data visualization
 ### Interests
 Human performance optimization (HPO) in the B2B SaaS space, one of the fastest-growing sectors in enterprise technology. Every human is an athlete and every human is better enhanced.
 
-Elberta, Alabama · Open to remote roles · [LinkedIn]([linkedin.com/in/phillipshawn])
+Elberta, Alabama · Open to remote roles · [LinkedIn](https://linkedin.com/in/phillipshawn)
