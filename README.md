@@ -7,10 +7,10 @@ Former [Aerospace Operational Physiologist](https://www.navy.com/careers-benefit
 Former deep sea and naval special warfare diver.  Aviation Safety Officer, Naval Parachutist, and subject matter expert in human factors for [T-6, T-39, T-45](https://www.cnatra.navy.mil/tw6/) and [MH-60R](https://www.airlant.usff.navy.mil/comhelmarstrikewinglant/) platforms. I bring experiences from the field to the executive suite; from flight lines to assembly lines; from urban to rural, and from subsurface to aviation.  
 
 ### Featured projects
-- **[StickySteps](https://github.com/PhillipSdobbs22/StickySteps)** — iOS app that keeps procedure steps on screen while you work in other apps. Swift, ActivityKit, AVKit. Includes a documented log of what the platform allows and what it doesn't.
-- **[ArrowSpace Axis Finder](https://phillipsdobbs22.github.io/ArrowSpace-Axis-Finder/)**: Compares tuning methods to shot logs with sample-size-gated recommendations
-- **[BRM-Workbench](https://phillipsdobbs22.github.io/BRM-Workbench/)**: Business relationship manager simulation for the Pensacola FL / Baldwin County AL market
-- **[Financial Fuel Gauges](https://phillipsdobbs22.github.io/Financial-Fuel-Gauges-FFG/)**: Personal finance dashboard that shows spending as fuel gauges
+-Improve your phone **[StickySteps](https://github.com/PhillipSdobbs22/StickySteps)** — iOS app that keeps procedure steps on screen while you work in other apps. Swift, ActivityKit, AVKit. Includes a documented log of what the platform allows and what it doesn't.
+-Improve your accuracy **[ArrowSpace Axis Finder](https://phillipsdobbs22.github.io/ArrowSpace-Axis-Finder/)**: Compares tuning methods to shot logs with sample-size-gated recommendations
+-Improve your business **[BRM-Workbench](https://phillipsdobbs22.github.io/BRM-Workbench/)**: Business relationship manager simulation for the Pensacola FL / Baldwin County AL market
+-Improve your budgeting **[Financial Fuel Gauges](https://phillipsdobbs22.github.io/Financial-Fuel-Gauges-FFG/)**: Personal finance dashboard that shows spending as fuel gauges
 
 ### Currently tooling in
 SQL · Python · JSON · Swift · data visualization
