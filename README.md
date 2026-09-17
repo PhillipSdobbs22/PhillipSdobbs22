@@ -8,7 +8,7 @@ Former deep sea and naval special warfare diver.  Aviation Safety Officer, Naval
 
 
 ### Featured projects
--Improve your phone **[StickySteps](https://github.com/PhillipSdobbs22/StickySteps)** — iOS app that keeps procedure steps on screen while you work in other apps. Swift, ActivityKit, AVKit.
+-Improve your phone **[StickySteps](https://github.com/PhillipSdobbs22/StickySteps)** Floats your procedures on screen while you work in other apps. Swift, ActivityKit, AVKit.
 
 -Improve your accuracy **[ArrowSpace Axis Finder](https://phillipsdobbs22.github.io/ArrowSpace-Axis-Finder/)**: Compares tuning methods to shot logs with sample-size-gated recommendations.
 
