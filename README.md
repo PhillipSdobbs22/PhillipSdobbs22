@@ -10,7 +10,8 @@ Former deep sea and naval special warfare diver.  Aviation Safety Officer, Naval
 ### Featured projects
 -Improve your iphone **[StickySteps](https://github.com/PhillipSdobbs22/StickySteps)** Floats your procedures on screen while you work in other apps. Swift, ActivityKit, AVKit.
 
--Improve your fitness watch **[coros-water-beacon](https://phillipsdobbs22.github.io/coros-water-beacon/)**: Turns your altitude barometer into an underwater beacon if lost or depth is exceeded.
+-Improve your fitness watch **[coros-water-beacon](https://phillipsdobbs22.github.io/coros-water-beacon/)**: Turns your altitude barometer into an underwater beacon if lost or depth is exceeded. <img width="1100" height="508" alt="coros-water-beacon-demo" src="https://github.com/user-attachments/assets/75809bdc-72fe-4f67-8254-4e5318a0f244" />
+
 
 -Improve your archery **[ArrowSpace Axis Finder](https://phillipsdobbs22.github.io/ArrowSpace-Axis-Finder/)**: Compares tuning methods to shot logs with sample-size-gated recommendations.
 
