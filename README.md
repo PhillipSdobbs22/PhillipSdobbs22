@@ -12,7 +12,8 @@ Former deep sea and naval special warfare diver.  Aviation Safety Officer, Naval
 
 -Improve your fitness watch **[coros-water-beacon](https://phillipsdobbs22.github.io/coros-water-beacon/)**: Turns your altitude barometer into an underwater beacon if lost or depth is exceeded. <img width="1100" height="508" alt="coros-water-beacon-demo" src="https://github.com/user-attachments/assets/75809bdc-72fe-4f67-8254-4e5318a0f244" />
 
--Improve your archery **[ArrowSpace Axis Finder](https://phillipsdobbs22.github.io/ArrowSpace-Axis-Finder/)**: Compares tuning methods to shot logs with sample-size-gated recommendations.<img width="480" height="1038" alt="ArrowSpace" src="https://github.com/user-attachments/assets/32990edf-0738-4bdf-b982-84e3016396db" />
+-Improve your archery **[ArrowSpace Axis Finder](https://phillipsdobbs22.github.io/ArrowSpace-Axis-Finder/)**: Compares tuning methods to shot logs with sample-size-gated recommendations.<img width="480" height="980" alt="ArrowSpace" src="https://github.com/user-attachments/assets/fd70bb7a-0403-440a-a486-cb9f1aea74b3" />
+
 
 
 -Improve your business **[BRM-Workbench](https://phillipsdobbs22.github.io/BRM-Workbench/)**: Business relationship manager simulation for the Pensacola FL / Baldwin County AL market.
