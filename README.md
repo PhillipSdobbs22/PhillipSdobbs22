@@ -4,7 +4,7 @@ US Navy Commander, retired, [Aerospace Operational Physiologist](https://www.nav
   Bringing world class ambition into multi-disciplinary teams collaborating with **AI, Software, and Product Engineers** to rapidly deploy advanced tools that improve human performance for those closest to the work.  
   A sports enthusiast: Olympic Taekwondo Black Belt, [USA Cycling Category I cyclist](https://usacycling.sport80.com/pub/athletes/249894/results), Ironman Florida Finisher, and former Guinness endurance World Record holder.
   Academic education includes a bachelor of science degree in workforce education from Southern Illinois University Carbondale and a masters degree in sports science from the United States Sports University with 3.7 and 3.9 gpa respectively.
-Former deep sea and naval special warfare diver.  Aviation Safety Officer, Naval Parachutist, and subject matter expert in human factors for [T-6, T-39, T-45](https://www.cnatra.navy.mil/tw6/) and [MH-60R](https://www.airlant.usff.navy.mil/comhelmarstrikewinglant/) platforms. I bring experiences from the field to the executive suite; from flight lines to assembly lines; from urban to rural, and from subsurface to aviation.  
+Former deep sea and naval special warfare diver.  Aviation Safety Officer, Naval Parachutist, and subject matter expert in human factors for [T-6, T-39, T-45](https://www.cnatra.navy.mil/tw6/) and [MH-60R](https://www.airlant.usff.navy.mil/comhelmarstrikewinglant/) platforms. He brings director of operations and high risk training management experience from the field to the executive suite; from flight lines to assembly lines; from urban to rural, and from subsurface to aviation.  
 
 
 ### Featured projects
@@ -14,12 +14,9 @@ Former deep sea and naval special warfare diver.  Aviation Safety Officer, Naval
 
 -Improve your archery **[ArrowSpace Axis Finder](https://phillipsdobbs22.github.io/ArrowSpace-Axis-Finder/)**: Compares tuning methods to shot logs with sample-size-gated recommendations.<img width="480" height="980" alt="ArrowSpace" src="https://github.com/user-attachments/assets/fd70bb7a-0403-440a-a486-cb9f1aea74b3" />
 
-
-
 -Improve your business **[BRM-Workbench](https://phillipsdobbs22.github.io/BRM-Workbench/)**: Business relationship manager simulation for the Pensacola FL / Baldwin County AL market.
 
 -Improve your budgeting **[Financial Fuel Gaues](https://phillipsdobbs22.github.io/Financial-Fuel-Gauges-FFG/)**: Personal finance dashboard that shows spending as fuel gauges.
-
 
 ### Currently tooling in
 SQL · Python · JSON · Swift · data visualization
